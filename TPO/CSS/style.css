@@ -120,7 +120,7 @@ header .nav_menu a:hover{
         0deg,
         #00000080,
         #00000080
-    ), url(/IMG/idiomasya.jpg);
+    ), url(../IMG/idiomasya.jpg);
     background-repeat: 0;
     background-size: cover;
     background-position: center center;
@@ -226,7 +226,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/IMG/ingles.jpg");
+    ,url("../IMG/ingles.jpg");
 }
 
 .carta2{
@@ -235,7 +235,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/IMG/Portugues.jpg");
+    ,url("../IMG/Portugues.jpg");
 }
 
 .carta3 {
@@ -244,7 +244,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/IMG/frances.jpg");
+    ,url("../IMG/frances.jpg");
 }
 
 .carta4{
@@ -253,7 +253,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/IMG/italiano.jpg");
+    ,url("../IMG/italiano.jpg");
 }
 
 .carta5{
@@ -262,7 +262,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/IMG/aleman.jpg");
+    ,url("../IMG/aleman.jpg");
 }
 
 .carta6{
@@ -271,7 +271,7 @@ header .nav_menu a:hover{
         #00000080,
         #00000080
     )
-    ,url("/img/japones.jpg");
+    ,url("../img/japones.jpg");
 }
 /* ---CARACTERISTICAS ---- */
 #caracteristicas{
@@ -327,7 +327,7 @@ header .nav_menu a:hover{
         0deg,
         #000000ce,
         #00000080
-    ), url(/IMG/contacto.jpg);
+    ), url(../IMG/contacto.jpg);
     background-repeat: 0;
     background-size: cover;
     background-position: center center;
@@ -540,7 +540,7 @@ footer .redes_container ul li a:hover{
         display: grid;
         grid-template-columns: 1fr;
         gap: 10px;
-        padding: 100px 12px;
+        padding: 165px 12px;
 
     }
     #idiomasya h1 {
@@ -608,7 +608,7 @@ footer .redes_container ul li a:hover{
             #00000080,
             #00000080
         )
-        ,url("/IMG/caracteristicas.jpg");
+        ,url("../IMG/caracteristicas.jpg");
         background-position: center center;
         background-size: cover;
         border-radius: 10px;
@@ -658,7 +658,7 @@ footer .redes_container ul li a:hover{
             #00000080,
             #00000080
         )
-        ,url("/IMG/somos-Idiomasya.jpg");
+        ,url("../IMG/somos-Idiomasya.jpg");
         background-position: center center;
         background-size: cover;
         border-radius: 10px;
@@ -708,7 +708,7 @@ footer .redes_container ul li a:hover{
             #00000080,
             #00000080
         )
-        ,url("/IMG/caracteristicas.jpg");
+        ,url("../IMG/caracteristicas.jpg");
         background-position: center center;
         background-size: cover;
         border-radius: 10px;
