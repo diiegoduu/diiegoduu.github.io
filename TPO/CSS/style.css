@@ -92,10 +92,12 @@ header .nav_logo {
 }
 header nav:hover a{
     filter: blur(2px);
+    transition: .3s;
 }
 header .nav_menu a:hover{
     transform: translateY(-3px) scale(1.1);
     filter: none;
+    transition: .1s;
 }
 
 .nav_item {
@@ -431,10 +433,12 @@ footer .redes_container ul{
 }
 footer .redes_container ul:hover a{
     filter: blur(2px);
+    transition: .1s;
 }
 footer .redes_container ul li a:hover{
     transform: translateY(-3px) scale(1.1);
     filter: none;
+    transition: .1s;
 }
 
 /* -----------MEDIA MOBILE----------- */
