@@ -445,7 +445,7 @@ footer .redes_container ul li a:hover{
 
 @media (max-width: 410px){
     #sobre_nosotros .container iframe {
-    width: 220px;
+    width: 0px;
     height: 220px;
     margin: auto;
     margin-top: 30px;
@@ -455,7 +455,7 @@ footer .redes_container ul li a:hover{
 #sobre_nosotros .container {
     text-align: center;
     padding: 200px 12px;
-    height: 115vh;
+    height: 62vh;
 }
 }
 @media (max-width: 920px) {
